@@ -1,0 +1,90 @@
+{
+    "nurse":[
+        {
+            "id":1,
+            "email": "test1@example.com",
+            "password": "1234",
+            "firstName": "John",
+            "lastName": "Smith",
+            "position": "Nurse"
+        },
+        {
+            "id":2,
+            "email": "test2@example.com",
+            "password": "1234",
+            "firstName": "John",
+            "lastName": "Smith",
+            "position": "Nurse"
+        },
+        {
+            "id":3,
+            "email": "test3@example.com",
+            "password": "1234",
+            "firstName": "John",
+            "lastName": "Smith",
+            "position": "Nurse"
+        },
+        {
+            "id":4,
+            "email": "test4@example.com",
+            "password": "1234",
+            "firstName": "John",
+            "lastName": "Smith",
+            "position": "Nurse"
+        }
+    ],
+    "patients":
+    [
+        {
+            "id":1,
+            "firseName":"Sakol",
+            "lastName":"Sakol",
+            "gender":"male",
+            "age":25,
+            "symptom":"Dangerous"
+        },
+        {
+            "id":2,
+            "firseName":"Sakol",
+            "lastName":"Sakol",
+            "gender":"female",
+            "age":50,
+            "symptom":"Dangerous"
+        },
+        {
+            "id":3,
+            "firseName":"Sakol",
+            "lastName":"Sakol",
+            "gender":"female",
+            "age":40,
+            "symptom":"Dangerous"
+        },
+        {
+            "id":4,
+            "firseName":"Sakol",
+            "lastName":"Sakol",
+            "gender":"male",
+            "age":34,
+            "symptom":"Dangerous"
+        },
+        {
+            "id":5,
+            "firseName":"Sakol",
+            "lastName":"Sakol",
+            "gender":"male",
+            "age":21,
+            "symptom":"Dangerous"
+        },
+        {
+            "id":6,
+            "firseName":"Sakol",
+            "lastName":"Sakol",
+            "gender":"male",
+            "age":21,
+            "symptom":"Dangerous"
+        }
+    ]
+    
+}
+
+
